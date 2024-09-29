@@ -3,4 +3,4 @@ matplotlib==3.9.2
 opencv-python-headless==4.10.0.84
 numpy==1.26.4
 pytesseract==0.3.13
-tesseract v5.4.0.20240606
+tesseract ==v5.4.0.20240606
